@@ -2,6 +2,7 @@
   box-shadow: none;
   border: none;
   background-color: white;
+  color: black;
 }
 
 .footer-background {
@@ -17,10 +18,14 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  height: 600px;
 }
 
 p {
   color: white;
   font-size: large;
+}
+
+#drop {
+  color: black;
+  font-size: small;
 }
