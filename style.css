@@ -1,0 +1,31 @@
+.ui.borderless.topmenu.container.menu {
+  box-shadow: none;
+  border: none;
+  background-color: white;
+  color: black;
+}
+
+.footer-background {
+  background-color: #004030;
+  color: white;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.pub-background {
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  background-color: transparent;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+p {
+  color: white;
+  font-size: large;
+}
+
+#drop {
+  color: black;
+  font-size: small;
+}
